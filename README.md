@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
+## Source Material
+https://www.bezkoder.com/angular-11-mongodb-node-js-express/#Angular_11_MongoDB_example_with_Nodejs_Express
+
+and 
+https://www.bezkoder.com/angular-11-crud-app/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
